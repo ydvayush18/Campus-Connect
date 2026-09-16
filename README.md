@@ -1,5 +1,4 @@
 # Neofilx
-https://neural-nexus-81.preview.emergentagent.com/?utm_source=share
 Role & Goal: Act as an expert frontend engineer, creative technologist, and UI/UX designer specializing in spatial computing, immersive web experiences, and futuristic interfaces (think Minority Report meets Apple Vision Pro). Build a fully functional, high-fidelity, futuristic 3D frontend concept for a streaming platform called "NEOFLIX: Horizon 2050".
 
 Tech Stack Requirements:
